@@ -1,16 +1,4 @@
-![Screenshot (32)](https://github.com/itsAkash1285/Placement-cell-App/assets/111186744/5297a6c7-4276-4a5d-a8cb-e26b72c744f2)
-![Screenshot (31)](https://github.com/itsAkash1285/Placement-cell-App/assets/111186744/b746edcc-b9cd-4179-9a31-42dcb8f73445)
-![Screenshot (28)](https://github.com/itsAkash1285/Placement-cell-App/assets/111186744/eadd35cb-f6bc-495d-922b-6afd1ea42080)
-![Screenshot (27)](https://github.com/itsAkash1285/Placement-cell-App/assets/111186744/8903be11-2b85-4f9c-818f-947d16004d05)
-![Screenshot (30)](https://github.com/itsAkash1285/Placement-cell-App/assets/111186744/6bb6f8c5-9a03-4e0d-856f-349f526b8359)
-
-
-
-
-
-1.this is pleasement cell web application it is created for manage interview of students and allocate student to companies for interview
-
-
+A Simple placement App 
 ##Functionality
 
 1.User can SignUp/Signin
@@ -38,10 +26,10 @@
 
 
 ##Setup in Local System
-1.git clone:https://github.com/itsAkash1285/Placement-cell-App
-2.hosting Link:https://itsakash1285.github.io/Placement-cell-App/
+1. Github link https://github.com/pranavhajare/Placement-cell-App
+2. Hosted on https://placement-cell-app-wwtp.onrender.com
 3.open command prompt and Type 'npm install' for download all dependencies
-4.then just "npm start"/ if npm start is not work just run this command 'node index.js'
-5.then go localhost:5000
+4.then just 'node index.js'
+5.then go localhost:8000
 
 
